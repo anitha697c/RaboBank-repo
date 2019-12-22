@@ -22,11 +22,13 @@ There are two validations:
 At the end of the processing, a report needs to be created which will display both the transaction reference and description of each of the failed records.
 
 # Technologies used
-Java 8
-Spring Boot -Spring Boot Web -Spring Boot Actuator
-Maven
-Mockito/junit
-Jsp
+* Java 8
+* Spring Boot 
+     - Spring Boot Web 
+     - Spring Boot Actuator
+* Maven
+* Mockito/junit
+* Jsp
 
 # Steps to run the application:
 1. Clone the project Rabobank (Spring boot project).
