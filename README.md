@@ -1,5 +1,5 @@
 # Rabobank Customer Statement Processor
-Rabobank receives monthly deliveries of customer statement records. This information is delivered in two formats, CSV and XML. These records need to be validated.
+Rabobank receives monthly deliveries of customer statement records. This information is delivered in two formats, CSV and XML. These records needs to be validated.
 
 ## Input
 The format of the file is a simplified format of the MT940 format. The format is as follows:
