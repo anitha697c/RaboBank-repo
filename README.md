@@ -52,6 +52,5 @@ Handled the following issues,
 
 ### Test Cases:
 Created test cases for all service classes in the application and it is in src/test/java/com/rabobank/testcase/RaboBankTestCases.java
-PFB the test result,
 
 #### Developed by [Anitha C](https://github.com/anitha697c)
